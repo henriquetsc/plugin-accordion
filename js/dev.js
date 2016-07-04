@@ -1,3 +1,3 @@
 $(document).ready(function(){
-  $(".accordeon").accordion(900);
+  $(".accordeon").accordion();
 });
